@@ -1,0 +1,2 @@
+employee - Clocked In - 2024-12-01 17:52:30
+employee - Clocked Out - 2024-12-01 17:52:33
